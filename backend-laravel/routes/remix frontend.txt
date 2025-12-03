@@ -1,0 +1,8 @@
+remix frontend
+laravel backend
+should send otp before login
+paymongo payment
+
+Card Number: 4343 4343 4343 4345
+Expiry: 12/30
+CVC: 123

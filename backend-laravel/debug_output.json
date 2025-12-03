@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "category_id": 4,
+        "name": "GlowBabe Ultra-Fine Brow Pencil",
+        "description": "Achieve perfectly defined and natural-looking brows with our Ultra-Fine Brow Pencil. This retractable pencil features a precise, hair-like tip for effortless filling and shaping, and a spoolie brush on the other end to blend and groom. Long-lasting and smudge-proof for all-day wear.",
+        "price": "219.00",
+        "stock": 50,
+        "created_at": "2025-11-28T12:31:56.000000Z",
+        "updated_at": "2025-11-28T12:31:56.000000Z",
+        "image": "http:\/\/localhost\/storage\/products\/bJ6ie1cZn3miYLNe89BbWB4uAJPcoLYKJ2TnphTD.jpg",
+        "images": [
+            {
+                "id": 1,
+                "product_id": 1,
+                "image_path": "products\/bJ6ie1cZn3miYLNe89BbWB4uAJPcoLYKJ2TnphTD.jpg",
+                "created_at": "2025-11-28T12:31:58.000000Z",
+                "updated_at": "2025-11-28T12:31:58.000000Z"
+            }
+        ]
+    }
+]
