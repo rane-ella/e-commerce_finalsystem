@@ -34,7 +34,7 @@ A modern, full-stack e-commerce application built to provide a seamless shopping
 
 ### Backend
 - **Framework**: [Laravel](https://laravel.com/)
-- **Database**: MySQL
+- **Database**: PostgreSQL
 - **Authentication**: Laravel Sanctum
 - **API**: RESTful API architecture
 
